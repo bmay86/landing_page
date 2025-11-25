@@ -26,6 +26,12 @@ h1 {
   border: #f05f44;
 }
 
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
+}
+
 .btn-xl {
   padding: 1rem 2rem;
 }
