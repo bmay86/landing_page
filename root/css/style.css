@@ -23,13 +23,9 @@ h1 {
 
 .btn-primary {
   background-color: #f05f44;
-  border: #f05f44;
-}
-
-.btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  border-width: 4px;
+  border-color: #f05f44;
+  --bs-btn-hover-bg: #ee4b08;
+  --bs-btn-hover-border-color: #ee4b08;
 }
 
 .btn-xl {
